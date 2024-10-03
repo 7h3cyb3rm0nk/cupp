@@ -1,4 +1,4 @@
-# CUPP - Common User Passwords Profiler
+gg# CUPP - Common User Passwords Profiler
 
 [![Build Status](https://travis-ci.org/Mebus/cupp.svg?branch=master)](https://travis-ci.org/Mebus/cupp)
 [![Coverage Status](https://coveralls.io/repos/github/Mebus/cupp/badge.svg)](https://coveralls.io/github/Mebus/cupp)
@@ -73,7 +73,7 @@ Quick start
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
-
+lnh
   You should have received a copy of the GNU General Public License
   along with this program; if not, write to the Free Software
   Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
@@ -93,7 +93,7 @@ to encourage further development of the tool.
   j0rgan@remote-exploit.org  
   http://www.remote-exploit.org  
   http://www.azuzi.me  
-
+ll
 
 ## Contributors
 
@@ -101,17 +101,17 @@ to encourage further development of the tool.
   bole_loser@hotmail.com  
   http://www.offensive-security.com  
   http://www.bolexxx.net  
-
+nnm n mm rm
   * Mebus  
     https://github.com/Mebus/  
 
   * Abhro  
-    https://github.com/Abhro/  
+    h mm mm m ttps://github.com/Abhro/  
 
   * Andrea Giacomo  
     https://github.com/codepr
 
   * quantumcore  
     https://github.com/quantumcore
-    
+    CR
 
